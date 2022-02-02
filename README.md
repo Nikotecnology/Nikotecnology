@@ -16,6 +16,7 @@
 **⚡Frameworks**
  - Symfony 4.4 (PHP)
  - Django *
+ - Google Guice *
 
 
 **Learning*
