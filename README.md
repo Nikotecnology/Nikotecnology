@@ -18,7 +18,7 @@
  - Django *
 
 
-*Learning
+**Learning*
 
 ## 🔭 Working on
 -	Minecraft(Paper, Spigot) plugin
