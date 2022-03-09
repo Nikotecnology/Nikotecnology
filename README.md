@@ -4,7 +4,7 @@
 
 **🌱 Programming Languages**
  - PHP 7.4
- -  Java (1.8 and newer)
+ - Java (1.8 and newer)
  - Javascript *
  - Python 3.9 *
  
@@ -14,7 +14,7 @@
  - React js and native *
  
 **⚡Frameworks**
- - Symfony 4.4 (PHP)
+ - Symfony 5.4 (PHP)
  - Django *
  - Google Guice *
 
