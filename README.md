@@ -12,7 +12,7 @@
 **🌅 Markup Languages**
  - HTML
  - CSS
- - React js *
+ - React js (Discontinued)
  
 **⚡Frameworks**
  - Symfony 5.4 (PHP)
