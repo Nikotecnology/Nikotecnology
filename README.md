@@ -24,7 +24,8 @@
 **Learning*
 
 ## 🔭 Working on
--	Minecraft(Paper, Spigot) plugin
+- Websites with Symfony Framework
+- Websites with Javascript
 -	Websites with Wordpress
 -	Network infrastructures
 -	Business infrastructures
