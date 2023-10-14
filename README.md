@@ -1,6 +1,6 @@
 # 🖥️ Nikotecnology
 
-4<sup>th</sup> &nbsp;year high school
+5<sup>th</sup> &nbsp;year high school
 
 **🌱 Programming Languages**
  - PHP 7.4/8.1
