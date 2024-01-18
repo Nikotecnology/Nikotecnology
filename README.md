@@ -3,11 +3,11 @@
 5<sup>th</sup> &nbsp;year high school
 
 **🌱 Programming Languages**
- - PHP 7.4/8.1
+ - PHP 7.4/8.2
  - Java (1.8 and newer)
- - Javascript *
- - Python 3.9 *
- - Dart *
+ - Javascript 
+ - Python 3.9 
+ - Dart 
  
 **🌅 Markup Languages**
  - HTML
@@ -16,12 +16,9 @@
  
 **⚡Frameworks**
  - Symfony 5.4 (PHP)
- - Django *
- - Google Guice *
- - Flutter *
-
-
-**Learning*
+ - Django 
+ - Google Guice 
+ - Flutter 
 
 ## 🔭 Working on
 - Websites with Symfony Framework
