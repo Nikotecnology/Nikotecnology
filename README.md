@@ -15,7 +15,7 @@
  - React js (Discontinued)
  
 **⚡Frameworks**
- - Symfony 5.4 (PHP)
+ - Symfony (PHP)
  - Django 
  - Google Guice 
  - Flutter 
